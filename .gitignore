@@ -23,7 +23,6 @@ node_modules
 
 # Bower Components
 bower_components
-lib
 
 #JSDOC
 doc
@@ -59,7 +58,6 @@ tags
 *.swp
 etc
 temp
-api
 .tern-port
 *.vim
 .\#*
