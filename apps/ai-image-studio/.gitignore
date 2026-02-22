@@ -1,0 +1,16 @@
+# Next.js build output
+.next/
+out/
+
+# Test and coverage output
+coverage/
+
+# TypeScript incremental build info
+*.tsbuildinfo
+
+# Local environment overrides
+.env.local
+.env.*.local
+
+# Misc local tooling
+.vercel/
